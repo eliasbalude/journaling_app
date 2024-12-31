@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "572517246464",
+    "project_id": "journalingapp-d6445",
+    "storage_bucket": "journalingapp-d6445.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572517246464:android:be963d3b97bd32c7ba9ae5",
+        "android_client_info": {
+          "package_name": "com.example.journaling_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkh-Ui7Ou4ihtDHHXNmre0n0Rmt_suxiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572517246464:android:50dcbc67cde1e405ba9ae5",
+        "android_client_info": {
+          "package_name": "com.example.journaling_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkh-Ui7Ou4ihtDHHXNmre0n0Rmt_suxiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
